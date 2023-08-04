@@ -1,3 +1,5 @@
+nodemon
+.env
 # Logs
 logs
 *.log
